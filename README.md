@@ -10,7 +10,7 @@
   
 - 🌱 I’m currently learning Java
 
-- 🧑‍🎓 I’m an Undergraduate at **nsbm**
+- 🎓 I’m an Undergraduate at **nsbm**
 
 - 💬 Ask me about **python**
 
