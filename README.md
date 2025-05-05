@@ -33,7 +33,8 @@
 <h3 align="center">My Statistics:</h3>
 <p align="center">
 <table align="center">
-<tr border="none">
+<tr border="none" border-collapse = "collapse">
+   
 <td width=100%" align="center">
   
  ![](https://github-readme-stats.vercel.app/api?username=lochanavdm&theme=one_dark_pro&hide_border=false&include_all_commits=false&count_private=false)<br/>
