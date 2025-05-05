@@ -6,7 +6,7 @@
 
 <table align="center">
 <tr border="none">
-<td width="50%" align="left">
+<td width="100%" align="left">
   
 - 🌱 I’m currently learning Java
 
@@ -34,7 +34,7 @@
 <p align="center">
 <table align="center">
 <tr border="none">
-<td width="70%" align="center">
+<td width=100%" align="center">
   
  ![](https://github-readme-stats.vercel.app/api?username=lochanavdm&theme=one_dark_pro&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=lochanavdm&theme=one_dark_pro&hide_border=false)<br/>
